@@ -11,12 +11,12 @@
         "assets": {
           "menu": [
             {
-              "url": "https://cookieandkate.com/images/2020/10/best-veggie-pizza-recipe-1.jpg"
+              "url": "https://blog.williams-sonoma.com/wp-content/uploads/2018/09/oct-1-Pizza-with-Mushrooms-Tomatoes-and-Red-Onions.jpg"
             }
           ],
           "product_details_page": [
             {
-              "url": "https://cookieandkate.com/images/2020/10/best-veggie-pizza-recipe-1.jpg"
+              "url": "https://blog.williams-sonoma.com/wp-content/uploads/2018/09/oct-1-Pizza-with-Mushrooms-Tomatoes-and-Red-Onions.jpg"
             }
           ]
         },
